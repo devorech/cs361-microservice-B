@@ -1,0 +1,27 @@
+{
+    "debbie12": {
+        "password": {
+            "user_id": 1
+        }
+    },
+    "karl34": {
+        "password": {
+            "user_id": 2
+        }
+    },
+    "chad56": {
+        "pass123": {
+            "user_id": 900693
+        }
+    },
+    "pass": {
+        "word": {
+            "user_id": 849053
+        }
+    },
+    "test": {
+        "user": {
+            "user_id": 78386
+        }
+    }
+}
