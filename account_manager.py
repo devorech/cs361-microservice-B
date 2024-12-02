@@ -24,7 +24,6 @@ def main():
                 # [create account or login, username, password]
                 output = acct_file.read()
                 if (output != "" and output.isnumeric() == False):
-                    print("This runs")
                     new_acct_info = output.split()
                     option = new_acct_info[0] # "create" = Create an account, "login" = login
                     username = new_acct_info[1]
